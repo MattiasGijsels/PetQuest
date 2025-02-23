@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{426A4327-9F17-4174-AF7E-24E061AC55A4}|..\\PetQuest.Database\\PetQuest.Database.csproj|c:\\users\\matti\\source\\repos\\petquest\\petquest.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 306,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Database\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\PetQuest.Database\\Class1.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Database\\Class1.cs",
+              "RelativeToolTip": "..\\PetQuest.Database\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:27:48.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
