@@ -2,5 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/PetQuest/.vs/PetQuest/FileContentIndex
-/PetQuest/.vs/PetQuest/v17/.suo
+
+/PetQuest/.vs/
+/.vs/slnx.sqlite
