@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetQuest.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c51f312dc5df6cefb7ca75d43f4847db19235df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b3f190933fa06c6c41dbe7be0f41c80baebd94a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetQuest.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetQuest.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
