@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{F2A5938D-5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetQuest.Database", "..\PetQuest.Database\PetQuest.Database.csproj", "{426A4327-9F17-4174-AF7E-24E061AC55A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetQuest.Contracts", "..\PetQuest.Contracts\PetQuest.Contracts.csproj", "{4A44C782-6C12-48EB-B292-E9AC8BF31A69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{426A4327-9F17-4174-AF7E-24E061AC55A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{426A4327-9F17-4174-AF7E-24E061AC55A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426A4327-9F17-4174-AF7E-24E061AC55A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A44C782-6C12-48EB-B292-E9AC8BF31A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A44C782-6C12-48EB-B292-E9AC8BF31A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A44C782-6C12-48EB-B292-E9AC8BF31A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A44C782-6C12-48EB-B292-E9AC8BF31A69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
