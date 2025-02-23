@@ -1,12 +1,84 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A44C782-6C12-48EB-B292-E9AC8BF31A69}|..\\PetQuest.Contracts\\PetQuest.Contracts.csproj|c:\\users\\matti\\source\\repos\\petquest\\petquest.contracts\\models\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A44C782-6C12-48EB-B292-E9AC8BF31A69}|..\\PetQuest.Contracts\\PetQuest.Contracts.csproj|c:\\users\\matti\\source\\repos\\petquest\\petquest.contracts\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A44C782-6C12-48EB-B292-E9AC8BF31A69}|..\\PetQuest.Contracts\\PetQuest.Contracts.csproj|c:\\users\\matti\\source\\repos\\petquest\\petquest.contracts\\shared\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A44C782-6C12-48EB-B292-E9AC8BF31A69}|..\\PetQuest.Contracts\\PetQuest.Contracts.csproj|c:\\users\\matti\\source\\repos\\petquest\\petquest.contracts\\defines\\imodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 306,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Species.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Contracts\\Models\\Species.cs",
+              "RelativeDocumentMoniker": "..\\PetQuest.Contracts\\Models\\Species.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Contracts\\Models\\Species.cs",
+              "RelativeToolTip": "..\\PetQuest.Contracts\\Models\\Species.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:57:57.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Contracts\\Shared\\ModelBase.cs",
+              "RelativeDocumentMoniker": "..\\PetQuest.Contracts\\Shared\\ModelBase.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Contracts\\Shared\\ModelBase.cs",
+              "RelativeToolTip": "..\\PetQuest.Contracts\\Shared\\ModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:43:12.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Contracts\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "..\\PetQuest.Contracts\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Contracts\\Models\\Pet.cs",
+              "RelativeToolTip": "..\\PetQuest.Contracts\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:42:24.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IModels.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Contracts\\Defines\\IModels.cs",
+              "RelativeDocumentMoniker": "..\\PetQuest.Contracts\\Defines\\IModels.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\PetQuest\\PetQuest.Contracts\\Defines\\IModels.cs",
+              "RelativeToolTip": "..\\PetQuest.Contracts\\Defines\\IModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:41:22.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
